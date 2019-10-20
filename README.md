@@ -16,7 +16,7 @@ The crux of the probelm is the preparation of certain advanced features that led
 
     •	URL length (Phising sites have higher length)  
     •	Total number of sub-domains in the URL (High for phising sites; inpersonating genuine sites in sub-domains makes it long)  
-    •	Lower values of url last update age, expiry age for phising sites (Phising sites are purposed to perform the damage in short time)  
-    •	Presence of special characters in phising sites.
+    •	Lower values of url last update age, expiry age for phising sites (Phising sites are purposed to perform the damage in short time) 
+    •	Presence of high number of digits and certain special characters in phising sites.
   
 
